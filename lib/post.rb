@@ -1,3 +1,6 @@
+requires author.#!/usr/bin/env ruby -wKU
+
+
 class Post
   attr_accessor :title, :author
 
