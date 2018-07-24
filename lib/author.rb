@@ -1,7 +1,7 @@
 class Author
-  author.name = name
+  attr_accessor :name
 
-
+  def author_info
+    @name
+  end
 end
-
-  
