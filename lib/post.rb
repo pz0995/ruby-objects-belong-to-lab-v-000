@@ -6,6 +6,6 @@ class Post
 
   def initialize
     @title
-    @author = author_name
+    @author = author.name
   end
 end
