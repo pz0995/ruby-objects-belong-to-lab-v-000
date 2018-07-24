@@ -1,8 +1,8 @@
 class Song
-  author.name = name
-song.title = title
-artist = artist
-artist.name = artist_name
-end
+  attr_accessor :artist, :title
 
-  
+def song_info
+  @artist
+  @title
+
+end
