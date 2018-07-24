@@ -1,4 +1,4 @@
-requires 'author.rb'
+require 'author.rb'
 
 
 class Post
