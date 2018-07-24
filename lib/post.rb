@@ -1,4 +1,4 @@
-requires author.#!/usr/bin/env ruby -wKU
+requires 'author.rb'
 
 
 class Post
